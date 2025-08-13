@@ -1,0 +1,8 @@
+.reveal {
+  opacity: 0; transform: translateY(16px);
+  animation: reveal .8s forwards ease;
+}
+@keyframes reveal {
+  to { opacity: 1; transform: translateY(0); }
+}
+.soft-glow { box-shadow: var(--glow); }
