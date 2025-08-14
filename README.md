@@ -26,7 +26,7 @@
 
 ![Demo GIF or Screenshot](link-to-your-demo.gif)
 
-**Live Demo:** [https://your-vercel-or-netlify-link.com](https://your-vercel-or-netlify-link.com)
+**Live Demo:** [https://your-vercel-or-netlify-link.com](https://comic-news-explorer.netlify.app/))
 
 ---
 
