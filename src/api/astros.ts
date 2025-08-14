@@ -1,7 +1,7 @@
 // api/astros.ts
 import type { VercelRequest, VercelResponse } from "@vercel/node";
 
-export default async function handler(req: VercelRequest, res: VercelResponse) {
+export default async function handler(_req: VercelRequest, res: VercelResponse) {
   try {
     const response = await fetch("http://api.open-notify.org/astros.json"); // HTTP is fine in serverless
     const data = await response.json();
