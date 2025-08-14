@@ -71,5 +71,5 @@
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/cosmic-news-explorer.git
+git clone https://github.com/thpunisher/cosmic-news-explorer.git
 cd cosmic-news-explorer
