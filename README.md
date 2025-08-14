@@ -26,7 +26,7 @@
 
 ![Demo GIF or Screenshot](link-to-your-demo.gif)
 
-**Live Demo:** [https://your-vercel-or-netlify-link.com](https://your-vercel-or-netlify-link.com)
+**Live Demo:** [Cosmic News Explorer](https://comic-news-explorer.netlify.app/))
 
 ---
 
@@ -71,5 +71,5 @@
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/cosmic-news-explorer.git
+git clone https://github.com/thpunisher/cosmic-news-explorer.git
 cd cosmic-news-explorer
